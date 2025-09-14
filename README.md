@@ -1,4 +1,4 @@
-# Hi there, I'm Adharsh Rengarajan 👋
+# Hi there, I'm Adharsh Rengarajan 
 
 Welcome to my GitHub profile! I'm currently pursuing a Master of Science in Software Engineering Systems at Northeastern University, Boston. I am passionate about building robust software solutions and have hands-on experience in full-stack development, software testing, and AI/ML integration.
 
@@ -8,7 +8,7 @@ You can reach me at: rengarajan.ad@northeastern.edu
 
 ---
 
-## 📚 Education
+## Education
 
 **Northeastern University, Boston, MA**  
 *Master of Science in Software Engineering Systems*  
@@ -22,7 +22,7 @@ Expected Graduation: May 2026
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 - **Languages:** Python, Java, JavaScript, TypeScript, HTML5, CSS3
 - **Frameworks/Libraries:** React, Redux, Flask, Spring MVC, Servlets, JDBC, Spring Boot, Express.js, Node.js, Gradio
@@ -32,7 +32,7 @@ Expected Graduation: May 2026
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Amalgam Rx**  
 *Software Testing Intern*  
@@ -46,7 +46,7 @@ _Remote | Oct 2023 – Feb 2024_
 
 ---
 
-## 📫 Contact
+## Contact
 
 - **Email:** rengarajan.ad@northeastern.edu
 
