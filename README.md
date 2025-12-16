@@ -12,7 +12,7 @@ You can reach me at: rengarajan.ad@northeastern.edu
 
 **Northeastern University, Boston, MA**  
 *Master of Science in Software Engineering Systems*  
-Expected Graduation: May 2026  
+Expected Graduation: Dec 2026  
 - **Relevant Coursework:** Object-Oriented Design, Web Design and User Experience Engineering, Program Structures and Algorithms, Enterprise Software Design.
 
 **K. Ramakrishnan College of Engineering, Trichy, TN**  
